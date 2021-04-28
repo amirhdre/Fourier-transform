@@ -6,7 +6,5 @@ The Fourier transform is one of the most important algorithm in signal processin
 
 
 1. Foundations of the Fourier transform - terminology
-1. Discrete Fourier transform — complete implementation
-
-
-
+1. Discrete Fourier transform - complete implementation
+1. Discrete inverse Fourier transform
